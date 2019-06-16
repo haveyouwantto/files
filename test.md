@@ -1,3 +1,3 @@
 # test.MD
 
-[Here](..)
+[Here](.)
