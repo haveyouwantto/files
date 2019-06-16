@@ -1,3 +1,3 @@
 # test.MD
 
-[Here](http://github.com)
+[Here](data:text/plain,gf)
